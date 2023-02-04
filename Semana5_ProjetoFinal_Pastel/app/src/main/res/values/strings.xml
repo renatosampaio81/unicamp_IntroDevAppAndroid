@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pastel - Projeto Coursera</string>
+
+    <string-array name="sizesArray">
+        <item>Mini Pateis      - 4  Unidades</item>
+        <item>Pastel de Feira  - 1  Unidade </item>
+        <item>Pastelão         - 1  Unidade </item>
+        <item>Pastel Gigante   - 1  Unidade </item>
+    </string-array>
+</resources>

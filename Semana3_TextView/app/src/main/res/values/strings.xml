@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TextView</string>
+    <string name="txtA">txtA</string>
+    <string name="clickme">Click Me !!</string>
+</resources>
